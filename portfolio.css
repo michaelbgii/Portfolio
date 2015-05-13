@@ -1,0 +1,17 @@
+.window {
+    text-align: center;
+    width: auto;
+    height: 1077px;
+}
+.mainContent {
+    margin-top: 100px;
+    display: inline-block;
+}
+
+
+.divider1 {
+    margin: auto auto;
+    height: 3px;
+    width: 100px;
+    background-color: #fff;
+}
